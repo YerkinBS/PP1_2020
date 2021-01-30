@@ -1,0 +1,15 @@
+	 
+lab1 - http://kbtu.acm.kz/cgi-bin/new-register?action=211&contest_id=73
+lab2 - http://kbtu.acm.kz/cgi-bin/new-register?action=211&contest_id=74
+lab3 - http://kbtu.acm.kz/cgi-bin/new-register?action=211&contest_id=75
+lab4 - http://kbtu.acm.kz/cgi-bin/new-register?action=211&contest_id=81
+lab5 - http://kbtu.acm.kz/cgi-bin/new-register?action=211&contest_id=82
+lab6 - http://kbtu.acm.kz/cgi-bin/new-register?action=211&contest_id=83
+lab7 - http://kbtu.acm.kz/cgi-bin/new-client?contest_id=86
+lab8 - http://kbtu.acm.kz/cgi-bin/new-register?action=211&contest_id=87
+lab9 - http://kbtu.acm.kz/cgi-bin/new-register?action=211&contest_id=88
+lab10 - http://kbtu.acm.kz/cgi-bin/new-register?action=211&contest_id=89
+lab11 - http://78.140.223.58/cgi-bin/new-client?contest_id=104
+
+github - https://github.com/askarakshabayev/PP12020Fall
+ASCII Table - https://upload.wikimedia.org/wikipedia/commons/7/7b/Ascii_Table-nocolor.svg
